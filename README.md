@@ -1,6 +1,8 @@
 # 🎵 ESP32-S3 WiFi Media Player for Home Assistant (ESPHome)
 
-This project is a high-quality WiFi network media player based on ESP32-S3 and ESPHome, designed to integrate with Home Assistant.
+This project is a high-quality WiFi network media player based on ESP32-S3 and ESPHome, designed to integrate with Home Assistant. 
+
+Based on this https://www.youtube.com/watch?v=AhRVRsdLZBc and improved with mixer and announcement
 
 It supports:
 
