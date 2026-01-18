@@ -48,6 +48,8 @@ Main features of the config:
  
 ## 🏠 Home Assistant Integration
 
+![Home Assistant Example](ha_example.png)
+
 The device appears in Home Assistant as:
 
 - 📻 Media Player entity
