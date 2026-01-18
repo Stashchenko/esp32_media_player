@@ -30,8 +30,10 @@ It supports:
 
 ### 🧱 Hardware Used
 
- + ESP32-S3 DevKit (N16R8 or similar)
- + PCM5102 I2S DAC module
+| Component | Image |
+|----------|--------|
+| ESP32-S3 | <img src="esp32.jpg" width="300"> |
+| PCM5102 | <img src="PCM5102.jpg" width="300"> |
 
 #### 🛠️ ESPHome Configuration
 
